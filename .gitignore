@@ -1,0 +1,20 @@
+# Vibes folder
+vibes/
+
+# Node modules (if you add any npm packages)
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build outputs (if applicable)
+dist/
+build/
